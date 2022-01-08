@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">List View and Spinner</string>
+    <string-array name="student">
+        <item>Kundan</item>
+        <item>Gaurav</item>
+        <item>Devilal</item>
+        <item>Ram</item>
+        <item>Devi</item>
+        <item>Lal</item>
+    </string-array>
+</resources>
